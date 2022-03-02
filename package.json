@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.26.0",
+    "react": "^16.14.0",
+    "react-datepicker": "^2.9.4",
+    "react-dom": "^16.14.0",
+    "react-test-renderer": "^16.14.0",
+    "semantic-ui-css": "^2.3.0",
+    "semantic-ui-react": "^0.83.0"
+  }
+}
